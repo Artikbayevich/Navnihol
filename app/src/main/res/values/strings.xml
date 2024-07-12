@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Navnihol</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="ism_tanlash_usuli">
+        <item>"Atoqli nomlarni mazmuniga muvofiq shakllantirish"</item>
+        <item>"Atoqli nomlarni monandlik asosida shakllantirish"</item>
+        <item>"Atoqli nomlarni bosh xarflar bo'yicha shakllantirish"</item>
+    </string-array>
+
+    <string-array name="sanoat">
+        <item>"Yo'nalishni tanlash orqali"</item>
+        <item>"Nom qanday harf yoki so'zdan boshlanishini kiritish orqali"</item>
+    </string-array>
+
+    <string-array name="sanoat_type">
+        <item>"Oshxona"</item>
+        <item>"Novvoyxona"</item>
+        <item>"Kiyimlarni tozalash markazi"</item>
+        <item>"Sartaroshxona"</item>
+        <item>"Go‘zallik saloni"</item>
+        <item>"Restoran"</item>
+        <item>"Kafe"</item>
+        <item>"Oziq-ovqat do‘koni"</item>
+        <item>"Poyabzal do'koni"</item>
+        <item>"Kiyim-kechak do‘koni"</item>
+        <item>"Bolalar kiyimlari do‘koni"</item>
+        <item>"O‘yinchoqlar do‘koni"</item>
+        <item>"Dorixona"</item>
+        <item>"Tibbiy xizmat ko'rsatish"</item>
+        <item>"Poyabzal ustaxonasi"</item>
+        <item>"Tikuvchilik ustaxonasi"</item>
+        <item>"Mehmonxona"</item>
+        <item>"Choyxona"</item>
+        <item>"Kabobxona"</item>
+        <item>"Somsaxona"</item>
+        <item>"Ishlab chiqarish"</item>
+        <item>"Choy nomlari"</item>
+        <item>"Muzqaymoq nomlari"</item>
+        <item>"Konfet nomlari"</item>
+        <item>"To‘yxona nomlari"</item>
+        <item>"Fermer xo‘jaliklari nomlari"</item>
+        <item>"Saryog‘ nomlari"</item>
+        <item>"Betaraf so'zlar"</item>
+        <item>"Zaxira nomlar"</item>
+        <item>"Xalqona nomlar"</item>
+    </string-array>
+
+</resources>
